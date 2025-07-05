@@ -1,0 +1,1 @@
+import{_ as a,c as r,o as t,ah as i}from"./chunks/framework.zNPsoP7e.js";const d=JSON.parse('{"title":"联系我们","description":"","frontmatter":{},"headers":[],"relativePath":"guide/help.md","filePath":"zh/guide/help.md"}'),h={name:"guide/help.md"};function o(p,e,n,l,m,s){return t(),r("div",null,e[0]||(e[0]=[i("",8)]))}const _=a(h,[["render",o]]);export{d as __pageData,_ as default};
